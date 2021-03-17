@@ -2,6 +2,6 @@
 
 ## Rebecca Robb
 
-### All my labs done in jupyter notebook writen in Python
+### All my labs done in jupyter notebook written in Python
 
 **2021**
